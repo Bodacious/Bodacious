@@ -6,7 +6,7 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Sc
 
 ## Where I work
 
-Practically all of the work I do, is done as part of my small company [Katana][katana]. We are a web and mobile app development team that specialises in getting startups to market. You can think of us as your _external_, "in-house" development team.
+Practically all of the work I do is done as part of my small company [Katana][katana]. We are a web and mobile app development team that specialises in getting startups to market. You can think of us as your _external_, "in-house" development team.
 
 You can contact us here: [https://katanacode.com/contact/](https://katanacode.com/#call_to_action)
 
@@ -28,6 +28,10 @@ If you have an idea for an app or web-based business, you should check out this 
 
 ## Elsewhere
 
+- My Twitter account (I rarely use it)
+- My LinkedIn profile
+-
+
 I try to help out on StackOverflow when I can:
 
 <!-- SO-LIST:START -->
@@ -41,5 +45,11 @@ I try to help out on StackOverflow when I can:
 </dl>
 
 Bodacious is the name of one of the most famous rodeo bulls in history, but it's also a song by one of my all-time favourite bands, Primus: https://www.youtube.com/watch?v=3lP6rfkIcWc
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bodacious&show_icons=true&hide_border=true" />
+
+<!-- Links -->
 
 [katana]: https://katanacode.com/
