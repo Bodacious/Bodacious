@@ -7,6 +7,11 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Sc
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
+- [A naming convention for ActionMailer emails](https://handyrailstips.com/2020/07/10/naming-convention-for-action-mailer-emails-in-rails.html)
+- [Grab data from your production database using ActionMailer](https://handyrailstips.com/hack/2020/05/27/grab-data-from-your-production-db-using-action-mailer.html)
+- [DRYer, neater filters with class-based filters](https://handyrailstips.com/2010/05/18/dryer-neater-filters-with-class-based-filters.html)
+- [Improve Performance With Record/Resource Caching](https://handyrailstips.com/2010/02/25/improve-performance-with-record-slash-resource-caching.html)
+- [Faster Tests With factory_grabber](https://handyrailstips.com/2009/09/09/faster-tests-with-factory-grabber.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Why 'Bodacious'?
