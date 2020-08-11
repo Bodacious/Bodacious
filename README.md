@@ -28,9 +28,8 @@ If you have an idea for an app or web-based business, you should check out this 
 
 ## Elsewhere
 
-- My Twitter account (I rarely use it)
-- My LinkedIn profile
--
+- [My Twitter account][twitter] (I rarely use it)
+- [My LinkedIn profile][linkedin]
 
 I try to help out on StackOverflow when I can:
 
@@ -48,6 +47,8 @@ Bodacious is the name of one of the most famous rodeo bulls in history, but it's
 
 ---
 
+## Some stats
+
 ![Gavin Morrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodacious&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodacious)
@@ -55,3 +56,5 @@ Bodacious is the name of one of the most famous rodeo bulls in history, but it's
 <!-- Links -->
 
 [katana]: https://katanacode.com/
+[twitter]: https://twitter.com/morriceGavin
+[linkedin]: https://www.linkedin.com/in/gavinmorrice/
