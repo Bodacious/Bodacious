@@ -1,5 +1,7 @@
 # @Bodacious
 
+## /boʊˈdeɪʃəs/
+
 Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Scotland.
 
 ## Where I work
