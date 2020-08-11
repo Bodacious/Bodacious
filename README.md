@@ -35,7 +35,7 @@ I try to help out on StackOverflow when I can:
 
 <dl>
   <dt>Bodacious</dt>
-  <dd>_[adjective]_ &mdash;Audacious in a way considered admirable.</dd>
+  <dd><em>[adjective]</em>&mdash;Audacious in a way considered admirable.</dd>
 </dl>
 
 Bodacious is the name of one of the most famous rodeo bulls in history, but it's also a song by one of my all-time favourite bands, Primus: https://www.youtube.com/watch?v=3lP6rfkIcWc
