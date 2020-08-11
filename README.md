@@ -2,6 +2,13 @@
 
 Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Scotland.
 
+## Handy Rails Tips (.com)
+
+I write about Ruby on Rails development at my blog. You can browse the latest posts below:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Why 'Bodacious'?
 
 Bodacious
