@@ -11,7 +11,9 @@ I write about Ruby on Rails development at my blog. You can browse the latest po
 
 ## Why 'Bodacious'?
 
-Bodacious
-: audacious in a way considered admirable.
+<dl>
+  <dt>Bodacious - _adjective_</dt>
+  <dd>Audacious in a way considered admirable.</dd>
+</dl>
 
 Bodacious is the name of one of the most famous rodeo bulls in history, but it's also a song by one of my all-time favourite bands, Primus: https://www.youtube.com/watch?v=3lP6rfkIcWc
