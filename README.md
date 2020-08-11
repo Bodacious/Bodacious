@@ -49,9 +49,15 @@ Bodacious is the name of one of the most famous rodeo bulls in history, but it's
 
 ## Some stats
 
-![Gavin Morrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodacious&count_private=true&show_icons=true)
+<img align="left"
+     src="https://github-readme-stats.vercel.app/api?username=bodacious&count_private=true&show_icons=true"
+     alt="Gavin Morrice's GitHub stats"
+     loading="lazy" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodacious)
+<img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodacious"
+    alt="Gavin Morrice's GitHub stats"
+    loading="lazy" />
 
 <!-- Links -->
 
