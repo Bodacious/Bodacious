@@ -34,11 +34,11 @@ If you have an idea for an app or web-based business, you should check out this 
 I try to help out on StackOverflow when I can:
 
 <!-- SO-LIST:START -->
+- [Answer by bodacious for Rails - Build adapter for several APIs](https://stackoverflow.com/questions/63378203/rails-build-adapter-for-several-apis/63379627#63379627)
 - [Answer by bodacious for javascript How to check if a URL is same origin as current page?](https://stackoverflow.com/questions/31374766/javascript-how-to-check-if-a-url-is-same-origin-as-current-page/62996599#62996599)
 - [Answer by bodacious for Jekyll: collections vs data file](https://stackoverflow.com/questions/57916114/jekyll-collections-vs-data-file/62933152#62933152)
 - [Can I create a multi-column CSS page that wraps words based on page and column size?](https://stackoverflow.com/questions/62499782/can-i-create-a-multi-column-css-page-that-wraps-words-based-on-page-and-column-s)
 - [How to resize an image with imagemagick to show a horizontal margin if required](https://stackoverflow.com/questions/62269420/how-to-resize-an-image-with-imagemagick-to-show-a-horizontal-margin-if-required)
-- [How can I manually set the cookie in a Rails response?](https://stackoverflow.com/questions/53012018/how-can-i-manually-set-the-cookie-in-a-rails-response)
 <!-- SO-LIST:END -->
 
 ## Why 'Bodacious'?
