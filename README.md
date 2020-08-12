@@ -42,7 +42,7 @@ I try to help out on StackOverflow when I can:
 ## Why 'Bodacious'?
 
 <dl>
-  <dt>Bodacious &mdash; /boʊˈdeɪʃəs/</dt>
+  <dt>Bodacious (/boʊˈdeɪʃəs/)</dt>
   <dd><em>[adjective]</em>&mdash;Audacious in a way considered admirable.</dd>
 </dl>
 
