@@ -1,7 +1,5 @@
 # @Bodacious
 
-## /boʊˈdeɪʃəs/
-
 Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Scotland.
 
 ## Where I work
@@ -44,7 +42,7 @@ I try to help out on StackOverflow when I can:
 ## Why 'Bodacious'?
 
 <dl>
-  <dt>Bodacious</dt>
+  <dt>Bodacious &mdash; /boʊˈdeɪʃəs/</dt>
   <dd><em>[adjective]</em>&mdash;Audacious in a way considered admirable.</dd>
 </dl>
 
