@@ -2,13 +2,13 @@
 
 Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Scotland.
 
-## Where I work
+## Where I work 🤓
 
 Practically all of the work I do is done as part of my small company [Katana][katana]. We are a web and mobile app development team that specialises in getting startups to market. You can think of us as your _external_, "in-house" development team.
 
 You can contact us here: [https://katanacode.com/contact/](https://katanacode.com/#call_to_action)
 
-## Handy Rails Tips (.com)
+## Handy Rails Tips (.com)💡
 
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
@@ -20,11 +20,11 @@ I write about Ruby on Rails development at my blog. You can browse the latest po
 - [Improve Performance With Record/Resource Caching](https://handyrailstips.com/2010/02/25/improve-performance-with-record-slash-resource-caching.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Planning your own startup?
+## Planning your own startup? 🚀
 
 If you have an idea for an app or web-based business, you should check out this free guide: [App Starter](https://app-starter.co.uk/). It will help you organise your thoughts and ask yourself the right questions, before you start the (potentially) expensive development phase.
 
-## Elsewhere
+## Elsewhere 🌎
 
 - [My Twitter account][twitter] (I rarely use it)
 - [My LinkedIn profile][linkedin]
@@ -39,7 +39,7 @@ I try to help out on StackOverflow when I can:
 - [How to resize an image with imagemagick to show a horizontal margin if required](https://stackoverflow.com/questions/62269420/how-to-resize-an-image-with-imagemagick-to-show-a-horizontal-margin-if-required)
 <!-- SO-LIST:END -->
 
-## Why 'Bodacious'?
+## Why 'Bodacious'? 🐂
 
 <dl>
   <dt>Bodacious (/boʊˈdeɪʃəs/)</dt>
@@ -50,7 +50,7 @@ Bodacious is the name of one of the most famous rodeo bulls in history, but it's
 
 ---
 
-## Some stats
+## Some stats 📈
 
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=bodacious&count_private=true&show_icons=true"
