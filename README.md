@@ -13,11 +13,11 @@ You can contact us here: [https://katanacode.com/contact/](https://katanacode.co
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't use SecureRandom for simple Strings in Ruby](https://handyrailstips.com/video/2020/11/15/dont-use-securerandom-for-random-strings-in-ruby.html)
 - [Building a REST API in Ruby on Rails 3](https://handyrailstips.com/video/2020/08/12/build-a-rest-api-in-ruby-on-rails-3.html)
 - [A naming convention for ActionMailer emails](https://handyrailstips.com/2020/07/10/naming-convention-for-action-mailer-emails-in-rails.html)
 - [Grab data from your production database using ActionMailer](https://handyrailstips.com/hack/2020/05/27/grab-data-from-your-production-db-using-action-mailer.html)
 - [DRYer, neater filters with class-based filters](https://handyrailstips.com/2010/05/18/dryer-neater-filters-with-class-based-filters.html)
-- [Improve Performance With Record/Resource Caching](https://handyrailstips.com/2010/02/25/improve-performance-with-record-slash-resource-caching.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Planning your own startup? 🚀
