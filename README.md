@@ -2,12 +2,6 @@
 
 Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Scotland.
 
-## Where I work 🤓
-
-Practically all of the work I do is done as part of my small company [Katana][katana]. We are a web and mobile app development team that specialises in getting startups to market. You can think of us as your _external_, "in-house" development team.
-
-You can contact us here: [https://katanacode.com/contact/](https://katanacode.com/#call_to_action)
-
 ## Handy Rails Tips (.com)💡
 
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
