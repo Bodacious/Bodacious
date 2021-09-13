@@ -14,10 +14,6 @@ I write about Ruby on Rails development at my blog. You can browse the latest po
 - [DRYer, neater filters with class-based filters](https://handyrailstips.com/2010/05/18/dryer-neater-filters-with-class-based-filters.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Planning your own startup? 🚀
-
-If you have an idea for an app or web-based business, you should check out this free guide: [App Starter](https://app-starter.co.uk/). It will help you organise your thoughts and ask yourself the right questions, before you start the (potentially) expensive development phase.
-
 ## Elsewhere 🌎
 
 - [My Twitter account][twitter] (I rarely use it)
@@ -58,6 +54,5 @@ Bodacious is the name of one of the most famous rodeo bulls in history, but it's
 
 <!-- Links -->
 
-[katana]: https://katanacode.com/
 [twitter]: https://twitter.com/morriceGavin
 [linkedin]: https://www.linkedin.com/in/gavinmorrice/
