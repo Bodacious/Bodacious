@@ -1,6 +1,6 @@
 # @Bodacious
 
-Hi, I'm Gavin, a.k.a Bodacious. I'm a full-stack Ruby on Rails developer from Scotland.
+Hi, I'm Gavin, a.k.a Bodacious. I'm a Ruby engineer from Scotland.
 
 ## Handy Rails Tips (.com)💡
 
@@ -28,15 +28,6 @@ I try to help out on StackOverflow when I can:
 - [Can I create a multi-column CSS page that wraps words based on page and column size?](https://stackoverflow.com/questions/62499782/can-i-create-a-multi-column-css-page-that-wraps-words-based-on-page-and-column-s)
 - [How to resize an image with imagemagick to show a horizontal margin if required](https://stackoverflow.com/questions/62269420/how-to-resize-an-image-with-imagemagick-to-show-a-horizontal-margin-if-required)
 <!-- SO-LIST:END -->
-
-## Why 'Bodacious'? 🐂
-
-<dl>
-  <dt>Bodacious (/boʊˈdeɪʃəs/)</dt>
-  <dd><em>[adjective]</em>&mdash;Audacious in a way considered admirable.</dd>
-</dl>
-
-Bodacious is the name of one of the most famous rodeo bulls in history, but it's also a song by one of my all-time favourite bands, Primus: https://www.youtube.com/watch?v=3lP6rfkIcWc
 
 ---
 
