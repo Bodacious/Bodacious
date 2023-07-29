@@ -21,11 +21,11 @@ I write about Ruby on Rails development at my blog. You can browse the latest po
 I try to help out on StackOverflow when I can:
 
 <!-- SO-LIST:START -->
-- [Answer by bodacious for Rails - Build adapter for several APIs](https://stackoverflow.com/questions/63378203/rails-build-adapter-for-several-apis/63379627#63379627)
-- [Answer by bodacious for javascript How to check if a URL is same origin as current page?](https://stackoverflow.com/questions/31374766/javascript-how-to-check-if-a-url-is-same-origin-as-current-page/62996599#62996599)
-- [Answer by bodacious for Jekyll: collections vs data file](https://stackoverflow.com/questions/57916114/jekyll-collections-vs-data-file/62933152#62933152)
-- [Can I create a multi-column CSS page that wraps words based on page and column size?](https://stackoverflow.com/questions/62499782/can-i-create-a-multi-column-css-page-that-wraps-words-based-on-page-and-column-s)
-- [How to resize an image with imagemagick to show a horizontal margin if required](https://stackoverflow.com/questions/62269420/how-to-resize-an-image-with-imagemagick-to-show-a-horizontal-margin-if-required)
+- [Answer by bodacious for How do I connect a general search form &lpar;form_with helper&rpar; to a specific route and pass the input to the params hash?](https://stackoverflow.com/questions/71656367/how-do-i-connect-a-general-search-form-form-with-helper-to-a-specific-route-an/71680654#71680654)
+- [Answer by bodacious for Ruby: Associations to enable querying across 4 models](https://stackoverflow.com/questions/71579719/ruby-associations-to-enable-querying-across-4-models/71589300#71589300)
+- [Answer by bodacious for Getting current branch and commit hash in GitHub action](https://stackoverflow.com/questions/58886293/getting-current-branch-and-commit-hash-in-github-action/71240351#71240351)
+- [Answer by bodacious for Translate data options in rails](https://stackoverflow.com/questions/71208322/translate-data-options-in-rails/71210441#71210441)
+- [Answer by bodacious for How do I declare a method dynamically with method_missing?](https://stackoverflow.com/questions/8075270/how-do-i-declare-a-method-dynamically-with-method-missing/70541319#70541319)
 <!-- SO-LIST:END -->
 
 ---
