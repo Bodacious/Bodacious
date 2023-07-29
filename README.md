@@ -7,10 +7,11 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a Ruby engineer from Scotland.
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding train-wrecks in ActiveRecord](https://handyrailstips.com/2023/07/29/avoiding-trainwrecks-in-activerecord.html)
+- [Avoid using SecureRandom when testing your Ruby code](https://handyrailstips.com/2023/06/23/dont-use-securerandom-in-tests.html)
 - [Building a REST API in Ruby on Rails 3](https://handyrailstips.com/video/2020/08/12/build-a-rest-api-in-ruby-on-rails-3.html)
 - [A naming convention for ActionMailer emails](https://handyrailstips.com/2020/07/10/naming-convention-for-action-mailer-emails-in-rails.html)
 - [Grab data from your production database using ActionMailer](https://handyrailstips.com/hack/2020/05/27/grab-data-from-your-production-db-using-action-mailer.html)
-- [DRYer, neater filters with class-based filters](https://handyrailstips.com/2010/05/18/dryer-neater-filters-with-class-based-filters.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere 🌎
