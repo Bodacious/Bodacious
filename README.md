@@ -1,6 +1,6 @@
 # @Bodacious
 
-Hi, I'm Gavin, a.k.a Bodacious. I'm a Ruby engineer from Scotland.
+Hi, I'm Gavin, a.k.a Bodacious. I'm a software engineer from Scotland.
 
 ## Handy Rails Tips (.com)💡
 
