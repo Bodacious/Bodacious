@@ -7,11 +7,11 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a software engineer from Scotland.
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
+- [On the importance of syntax and semantics; How Ruby&#39;s power lies in its beauty](https://handyrailstips.com/2025/04/15/syntax-and-semantics.html)
 - [Sortable Semantic Version Strings in Rails &lpar;part 3&rpar;](https://handyrailstips.com/2025/01/30/sortable-semantic-version-strings-in-rails-part-3.html)
 - [Sortable Semantic Version Strings in Rails &lpar;part 2&rpar;](https://handyrailstips.com/2025/01/01/sortable-semantic-version-strings-in-rails-part-2.html)
 - [Sortable Semantic Version Strings in Rails &lpar;part 1&rpar;](https://handyrailstips.com/2025/01/01/sortable-semantic-version-strings-in-rails-part-1.html)
 - [Cursed Code Pilot: Refactoring Base Classes](https://handyrailstips.com/video/2024/05/30/cursed-code-abstract-base-class-composition.html)
-- [Using JSONB columns to create pseudo-attributes in Rails](https://handyrailstips.com/2024/03/31/how-to-use-jsonb-attributes-safely-in-ruby-on-rails.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere 🌎
