@@ -7,11 +7,11 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a software engineer from Scotland.
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
-- [On the importance of syntax and semantics; How Ruby&#39;s power lies in its beauty](https://handyrailstips.com/2025/04/15/syntax-and-semantics.html)
-- [Sortable Semantic Version Strings in Rails &lpar;part 3&rpar;](https://handyrailstips.com/2025/01/30/sortable-semantic-version-strings-in-rails-part-3.html)
-- [Sortable Semantic Version Strings in Rails &lpar;part 2&rpar;](https://handyrailstips.com/2025/01/01/sortable-semantic-version-strings-in-rails-part-2.html)
-- [Sortable Semantic Version Strings in Rails &lpar;part 1&rpar;](https://handyrailstips.com/2025/01/01/sortable-semantic-version-strings-in-rails-part-1.html)
-- [Cursed Code Pilot: Refactoring Base Classes](https://handyrailstips.com/video/2024/05/30/cursed-code-abstract-base-class-composition.html)
+- [POST requests should only be used when creating a new resource](https://handyrailstips.com/2025/06/15/resources-map-to-a-single-controller.html)
+- [POST requests should only be used when creating a new resource](https://handyrailstips.com/2025/06/15/post-means-creating-a-new-resource.html)
+- [8 Falsehoods Rails developers believe about REST](https://handyrailstips.com/2025/06/15/falsehoods-rails-developers-believe-about-REST.html)
+- [REST is about presenting a CRUD layer with JSON](https://handyrailstips.com/2025/06/15/falsehoods-crud-json.html)
+- [Define meta-resources for non-CRUD actions](https://handyrailstips.com/2025/06/15/define-meta-resources-for-non-crud-actions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere 🌎
