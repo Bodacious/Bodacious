@@ -7,11 +7,11 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a software engineer from Scotland.
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Self-Frying Burger](https://handyrailstips.com/2026/02/11/the-self-frying-burger.html)
-- [On the importance of syntax and semantics; How Ruby&#39;s power lies in its beauty](https://handyrailstips.com/2025/04/15/syntax-and-semantics.html)
-- [Sortable Semantic Version Strings in Rails &lpar;part 3&rpar;](https://handyrailstips.com/2025/01/30/sortable-semantic-version-strings-in-rails-part-3.html)
-- [Sortable Semantic Version Strings in Rails &lpar;part 2&rpar;](https://handyrailstips.com/2025/01/01/sortable-semantic-version-strings-in-rails-part-2.html)
-- [Sortable Semantic Version Strings in Rails &lpar;part 1&rpar;](https://handyrailstips.com/2025/01/01/sortable-semantic-version-strings-in-rails-part-1.html)
+- [How my dogs make me a better engineer](https://thinkersplayground.com/my-tip-for-becoming-a-better-engineer-get-a-dog.html)
+- [Your Psoriasis May Not Be Psoriasis](https://thinkersplayground.com/your-psoriasis-may-not-be-psoriasis.html)
+- [When work is cheap, do more](https://thinkersplayground.com/when-work-is-cheap-do-more.html)
+- [Work as an extension of yourself](https://thinkersplayground.com/work-as-extension-of-the-self.html)
+- [The Self-Frying Burger](https://thinkersplayground.com/the-self-frying-burger.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere 🌎
