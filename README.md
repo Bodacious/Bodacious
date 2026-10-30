@@ -7,11 +7,11 @@ Hi, I'm Gavin, a.k.a Bodacious. I'm a software engineer from Scotland.
 I write about Ruby on Rails development at my blog. You can browse the latest posts below:
 
 <!-- BLOG-POST-LIST:START -->
+- [Patrick Stewart, Captain Picard, and role models](https://thinkersplayground.com/remembering-patrick-stewart.html)
 - [How my dogs make me a better engineer](https://thinkersplayground.com/my-tip-for-becoming-a-better-engineer-get-a-dog.html)
 - [Your Psoriasis May Not Be Psoriasis](https://thinkersplayground.com/your-psoriasis-may-not-be-psoriasis.html)
 - [When work is cheap, do more](https://thinkersplayground.com/when-work-is-cheap-do-more.html)
 - [Work as an extension of yourself](https://thinkersplayground.com/work-as-extension-of-the-self.html)
-- [The Self-Frying Burger](https://thinkersplayground.com/the-self-frying-burger.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere 🌎
